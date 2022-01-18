@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my Open-Source projects:
+# Open-Source Projects
 
 - [SpigotExtender](https://github.com/KingHector/SpigotExtender)
 - [UnofficialHoneycombExtension](https://github.com/KingHector/UnofficialHonecombExtension)
