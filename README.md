@@ -4,9 +4,9 @@
 - [UnofficialHoneycombExtension](https://github.com/KingHector/UnofficialHonecombExtension)
 
 # Stats
-<a>
+<a href>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula)" />
 </a>
-<a>
+<a href>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingHector&layout=compact" />
 </a>
