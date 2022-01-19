@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Open-Source Projects
 
 - [SpigotExtender](https://github.com/KingHector/SpigotExtender)
