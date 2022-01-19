@@ -5,11 +5,6 @@
 
 # Stats
 
-![t](https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula")
+![t](https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula)
 ![d](https://github-readme-stats.vercel.app/api/top-langs/?username=KingHector&layout=compact&theme=dracula)
-<a href>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula" />
-</a>
-<a href>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingHector&layout=compact&theme=dracula"/>
-</a>
+
