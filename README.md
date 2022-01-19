@@ -6,4 +6,4 @@
 # Stats
 
 ![t](https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula)
-![d](https://github-readme-stats.vercel.app/api/top-langs/?username=KingHector&layout=compact&theme=dracula)
+![d](https://github-readme-stats.vercel.app/api/top-langs/?username=KingHector&layout=compact&theme=dracula&langs_count=8)
