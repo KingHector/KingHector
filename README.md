@@ -1,5 +1,6 @@
 # Open-Source Projects
 
+- [Alice](https://github.com/KingHector/Alice)
 - [SpigotExtender](https://github.com/KingHector/SpigotExtender)
 - [UnofficialHoneycombExtension](https://github.com/KingHector/UnofficialHonecombExtension)
 
