@@ -6,7 +6,7 @@
 
 ---
 
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://i.imgur.com/ePZFvIe.png)  |  ![](https://i.imgur.com/B6dlkcy.png)
 
   <a href="https://github.com/KingHector">
       <img align="center" width="50" height="50" src="https://i.imgur.com/ePZFvIe.png" />
