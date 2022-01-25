@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/B6dlkcy.png" />
+  <img width="50" height="50" src="https://i.imgur.com/B6dlkcy.png" />
 </p>
 
 ---
