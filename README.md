@@ -7,7 +7,7 @@
 ---
 
 <p align="center", href="https://github.com/KingHector">
-  <img src="blob:https://imgur.com/564775e2-fb8c-494b-ae9a-b95fd0bbab35" />
+  <img src="https://i.imgur.com/ePZFvIe.png" />
 </p>
 
 ---
