@@ -7,6 +7,10 @@
 ---
 
 <p align="center">
+  <a href="https://www.reddit.com/user/King_Hector">
+      <img align="center" width="50" height="50" src="https://i.imgur.com/0FNEErs.png" />
+  </a>
+  
   <a href="https://github.com/KingHector">
       <img align="center" width="50" height="50" src="https://i.imgur.com/ePZFvIe.png" />
   </a>
