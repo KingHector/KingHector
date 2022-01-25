@@ -7,7 +7,9 @@
 ---
 
 <p align="center">
-  <img width="100" height="100" href="https://github.com/KingHector" src="https://i.imgur.com/ePZFvIe.png" />
+  <a href="https://github.com/KingHector">
+    <img width="50" height="50" src="https://i.imgur.com/ePZFvIe.png" />
+  </a>
 </p>
 
 ---
