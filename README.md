@@ -6,12 +6,12 @@
 
 ---
 
-  <a align="center" href="https://github.com/KingHector">
-    <img width="50" height="50" src="https://i.imgur.com/ePZFvIe.png" />
+  <a href="https://github.com/KingHector">
+    <img align="center" width="50" height="50" src="https://i.imgur.com/ePZFvIe.png" />
   </a>
 
-<a align="center" href="https://open.spotify.com/user/zer0gaminggr?si=ed6786d2f23e49b0">
-  <img width="50" height="50" src="https://i.imgur.com/B6dlkcy.png" />
+<a href="https://open.spotify.com/user/zer0gaminggr?si=ed6786d2f23e49b0">
+  <img align="center" width="50" height="50" src="https://i.imgur.com/B6dlkcy.png" />
 </a>
 
 ---
