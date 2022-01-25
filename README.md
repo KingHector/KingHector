@@ -1,11 +1,15 @@
 <p align="center">
-      <a>
+  <a>
       <img align="center" width="50" height="50" src="https://i.imgur.com/ttfxrww.png" />
+  </a>
   
+  <a>    
       <img align="center" width="50" height="50" src="https://i.imgur.com/4FZpf8p.png" />
-
-      <img align="center" width="50" height="50" src="https://i.imgur.com/66nOutL.png" />
-      </a>      
+  </a>
+      
+  <a>    
+      <img align="center" width="50" height="50" src="https://i.imgur.com/66nOutL.png" />    
+  </a>   
 </p>  
 
 ---
