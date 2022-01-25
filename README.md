@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center", href="https://github.com/KingHector">
+<p align="center" href="https://github.com/KingHector">
   <img src="https://i.imgur.com/ePZFvIe.png" />
 </p>
 
