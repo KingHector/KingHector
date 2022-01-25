@@ -7,15 +7,11 @@
 ---
 
   <a href="https://github.com/KingHector">
-    <p align="center">
       <img align="center" width="50" height="50" src="https://i.imgur.com/ePZFvIe.png" />
-    </p>  
   </a>
 
-<a align="center" href="https://open.spotify.com/user/zer0gaminggr?si=ed6786d2f23e49b0">
-  <p align="center">
+<a href="https://open.spotify.com/user/zer0gaminggr?si=ed6786d2f23e49b0">
     <img align="center" width="50" height="50" src="https://i.imgur.com/B6dlkcy.png" />
-  </p>  
 </a>
 
 ---
