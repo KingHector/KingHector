@@ -5,11 +5,15 @@
 - [UnofficialHoneycombExtension](https://github.com/KingHector/UnofficialHonecombExtension)
 
 ---
-//fdwf
+
 <p align="center">
   <a href="https://github.com/KingHector">
     <img width="50" height="50" src="https://i.imgur.com/ePZFvIe.png" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/B6dlkcy.png" />
 </p>
 
 ---
