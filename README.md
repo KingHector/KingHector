@@ -6,4 +6,4 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula" />
+<img align="right" width="100" height="100" src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula" />
