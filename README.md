@@ -1,11 +1,3 @@
-# Open-Source Projects
-
-- [Alice](https://github.com/KingHector/Alice)
-- [SpigotExtender](https://github.com/KingHector/SpigotExtender)
-- [UnofficialHoneycombExtension](https://github.com/KingHector/UnofficialHonecombExtension)
-
----
-
 <p align="center">
   <a href="https://www.reddit.com/user/King_Hector">
       <img align="center" width="50" height="50" src="https://i.imgur.com/0FNEErs.png" />
