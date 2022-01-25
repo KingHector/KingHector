@@ -6,8 +6,8 @@
 
 ---
 
-<p align="center" width="100" height="100" href="https://github.com/KingHector">
-  <img src="https://i.imgur.com/ePZFvIe.png" />
+<p align="center">
+  <img width="100" height="100" href="https://github.com/KingHector" src="https://i.imgur.com/ePZFvIe.png" />
 </p>
 
 ---
