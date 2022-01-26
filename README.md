@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
     </a>
     <a href="https://www.jetbrains.com/idea/">
-        <img src="https://img.shields.io/badge/IntelliJIDEA-be3397.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-be3397.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
