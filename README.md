@@ -1,6 +1,6 @@
 <div style="display: inline_block" align="center">
     <a href="https://www.reddit.com/user/King_Hector">
-        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
+        <img src="https://img.shields.io/badge/Reddit-%23F500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
     </a>
     <a href="https://steamcommunity.com/profiles/76561198300452418/">
         <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
