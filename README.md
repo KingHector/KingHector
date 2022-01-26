@@ -8,9 +8,12 @@
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zer0gaminggr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="center">
+  <a>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=zer0gaminggr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" />
+  </a>  
   
-  <img src="https://i.imgur.com/Aa8mB8H.gif" />
+  <a>
+    <img src="https://i.imgur.com/Aa8mB8H.gif" />
+  </a> 
 </p>
