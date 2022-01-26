@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KingHector&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KingHector&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&currStreakNum=B0B0B0&sideNums=B0B0B0&currStreakLabel=B0B0B0&sideLabels=B0B0B0" />
 </p>
 
 ---
