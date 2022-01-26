@@ -9,10 +9,10 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <a href="https://www.twitch.tv/king_hector">
-        <img src="https://img.shields.io/badge/<handle>-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+        <img src="https://img.shields.io/badge/twich-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
     </a>
     <a href="https://twitter.com/KingHec25850851">
-        <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
 </div>
 
