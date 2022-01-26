@@ -19,9 +19,9 @@
 ---
 
 <p align="center">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[java].svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[javascript].svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[csharp].svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" />
 </p>    
   
 ---
