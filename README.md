@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KingHector&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&currStreakNum=879BA9&sideNums=879BA9&currStreakLabel=879BA9&sideLabels=879BA9&fire=DD2727&ring=A6BECF&stroke=30373C&dates=A6BECF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KingHector&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDfb8a00&currStreakNum=879BA9&sideNums=879BA9&currStreakLabel=879BA9&sideLabels=879BA9&fire=DD2727&ring=A6BECF&stroke=30373C&dates=A6BECF" />
 </p>
 
 ---
