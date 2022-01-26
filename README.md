@@ -19,9 +19,9 @@
 ---
 
 <p align="center">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" />
+    <img height="32" width="32" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img height="32" width="32" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img height="32" width="32" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>    
   
 ---
