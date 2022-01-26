@@ -1,4 +1,4 @@
-<div align="center">    
+<div style="display: inline_block" align="center">    
     <a href="dwdwdw">
         <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />    
     </a>
