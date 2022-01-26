@@ -41,7 +41,7 @@
 
 ---
 
-<div align="center">
+<div align="center" href="#">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -51,7 +51,7 @@
   
 ---
 
-<p align="center" href="#">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KingHector&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&currStreakNum=879BA9&sideNums=879BA9&currStreakLabel=879BA9&sideLabels=879BA9&fire=DD2727&ring=A6BECF&stroke=30373C&dates=A6BECF" />
 </p>
 
