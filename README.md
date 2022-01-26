@@ -5,14 +5,14 @@
     <a href="https://steamcommunity.com/profiles/76561198300452418/">
         <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
     </a>
+     <a href="https://github.com/kinghector">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
     <a href="https://www.twitch.tv/king_hector">
         <img src="https://img.shields.io/badge/<handle>-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
     </a>
     <a href="https://twitter.com/KingHec25850851">
         <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     </a>
 </div>
 
@@ -25,9 +25,6 @@
     <a href="https://www.jetbrains.com/idea/">
         <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     </a>
-    <a href="https://github.com/kinghector">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </a>
@@ -36,6 +33,9 @@
     </a>
     <a href="https://godotengine.org/">
         <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     </a>
 </div>
 
