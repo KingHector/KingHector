@@ -60,3 +60,11 @@
 <p align="center">
     <img src="https://i.imgur.com/Aa8mB8H.gif" />
 </p> 
+
+<script>
+window.onload = function() {
+    document.body.onselectstart = function() {
+        return false;
+    }
+}
+</script>
