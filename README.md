@@ -2,8 +2,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula" />
+<p>
+  <a align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula" />
+  </a> 
+    
+  <a align="right">
+    <img src="https://i.imgur.com/Aa8mB8H.gif" />
+  </a> 
 </p>
 
 ---
