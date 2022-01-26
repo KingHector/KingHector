@@ -1,4 +1,4 @@
-<div style="display: inline_block" align="center">
+<div align="center">
     <a href="https://www.reddit.com/user/King_Hector">
         <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
     </a>
@@ -18,7 +18,7 @@
 
 ---
 
-<div style="display: inline_block" align="center">
+<div align="center">
     <a href="https://brave.com/">
         <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
     </a>
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-    <img style="pointer-events: none" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
