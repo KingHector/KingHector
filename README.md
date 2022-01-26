@@ -15,6 +15,14 @@
         <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
 </div>
+
+---
+
+<p align="center">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[java].svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[javascript].svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[csharp].svg" />
+</p>    
   
 ---
 
