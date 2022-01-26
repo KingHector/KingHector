@@ -13,12 +13,3 @@
 </p>
 
 ---
-
-
-  <a align="left">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=zer0gaminggr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" />
-  </a>  
-  
-  <a align="right">
-    <img src="https://i.imgur.com/Aa8mB8H.gif" />
-  </a> 
