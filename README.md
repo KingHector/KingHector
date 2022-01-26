@@ -1,9 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KingHector&show_icons=true&theme=dracula&bg_color=#0000ffff" />
 </p>
 
 ---
