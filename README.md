@@ -2,6 +2,11 @@
     <a>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />    
     </a>
+
+    <a>
+        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />    
+    </a>
+    
 </p>    
 
 ---
