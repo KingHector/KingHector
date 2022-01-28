@@ -74,25 +74,3 @@
         <img src="https://i.imgur.com/Aa8mB8H.gif" />
     </a>    
 </div> 
-
-<style>
-    .tags {
-          display: flex;
-          flex-wrap: wrap;
-          height: 100%;
-          width: 100%;
-        }
-        .tag {
-          background-color: #E3FFFF;
-          border-radius: 0.25em;
-          color: #0ca4a5;
-          border: 1px solid #0ca4a5;
-          display: inline-block;
-          font-size: 0.75em;
-          line-height: 2em;
-          margin: 0.125em;
-          padding: 0 0.5em;
-          text-decoration: none;
-          font-family: sans-serif;
-        }
-</style>
