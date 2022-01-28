@@ -1,7 +1,7 @@
 [User]: King_Hector
 
 <div align="center">
-    <a href="https://www.reddit.com/user/" + user>
+    <a href="https://www.reddit.com/user/" + [user]>
         <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
     </a>
     <a href="https://steamcommunity.com/profiles/76561198300452418/">
