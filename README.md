@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center">
+<div align="cente">
     <a href="https://brave.com/">
         <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
     </a>
