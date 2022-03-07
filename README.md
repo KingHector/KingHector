@@ -28,6 +28,9 @@
     <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </a>
+    <a href="https://visualstudio.microsoft.com/">
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+    </a>
     <a href="https://krita.org/en/">
         <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
     </a>
