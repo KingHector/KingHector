@@ -1,4 +1,18 @@
 <div align="center">
+    <a href="https://steamcommunity.com/profiles/76561198300452418/">
+        <img src="https://img.shields.io/badge/steam-%23203357.svg?style=for-the-badge&logo=steam&logoColor=white">
+    </a>
+     <a href="https://github.com/kinghector">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://www.reddit.com/user/King_Hector">
+        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
+    </a>
+</div>
+
+---
+
+<div align="center">
     <a href="https://brave.com/">
         <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
     </a>
