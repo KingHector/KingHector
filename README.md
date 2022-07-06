@@ -74,9 +74,3 @@
         <img src="https://i.imgur.com/Aa8mB8H.gif" />
     </a>    
 </div> 
-
-<div align="center">
-    <a href="https://en.wikipedia.org/wiki/Sword_Art_Online">
-        <img src="https://i.imgur.com/BHPQu5w.png" />
-    </a>    
-</div> 
