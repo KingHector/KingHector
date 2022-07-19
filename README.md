@@ -74,5 +74,3 @@
         <img src="https://i.imgur.com/Aa8mB8H.gif" />
     </a>    
 </div> 
-
-AAAaAAA
